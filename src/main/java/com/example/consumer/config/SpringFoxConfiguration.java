@@ -1,5 +1,6 @@
 package com.example.consumer.config;
 
+import com.example.consumer.rest.ConsumerController;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
